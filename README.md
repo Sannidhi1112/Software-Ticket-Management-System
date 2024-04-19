@@ -9,13 +9,13 @@ Ticket Management: Users can easily submit tickets; agents can view, update, and
 Interactive Dashboards: Separate dashboards for users and agents to manage their tasks and communications.
 
 ## Technology Stack
-Python
-Stremlits
-Database: MySQL 
+#### Python
+#### Stremlits
+#### Database: MySQL 
 
 ## Installation
-Python 3.8 or newer
-MySQL 5.7 or newer
+#### Python 3.8 or newer
+#### MySQL 5.7 or newer
 
 ## Steps
 
