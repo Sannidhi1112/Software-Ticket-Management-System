@@ -21,8 +21,7 @@ MySQL 5.7 or newer
 
 ### Clone the Repository:
 
-1. Open Visual Studio:
-    Clone the repo,
+1. Open Visual Studio, Clone the repo.
     ```sh
     git clone https://github.com/Sannidhi1112/Software-Ticket-Management-System.git
     ```
@@ -57,15 +56,15 @@ MySQL 5.7 or newer
     ```
 
 ## Running Locally
-As described, accessible via http://localhost:8501 for the 
+As described, application is accessible via http://localhost:8501 
 
 ## Architecture Diagram
 Detailed view of the system interactions and data flow.
 ![alt text](STMS_Architecture.png)
 
-    This web-based ticket management system provides, users and agents interact through their respective portals, with users submitting tickets via the user portal and agents reviewing and updating them through the agent portal. The application server processes submitted tickets, storing them in the database for retrieval and updates. Agents handle ticket resolution and status updates, with the application server managing status changes and communicating them back to users. Users can view ticket status updates and agent comments, and have the ability to close the ticket. The application server processes these closure and updating the ticket status accordingly in the database. This system ensures efficient communication and resolution of user-reported issues, with clear processes for ticket management and status updates throughout.
+This web-based ticket management system provides, users and agents interact through their respective portals, with users submitting tickets via the user portal and agents reviewing and updating them through the agent portal. The application server processes submitted tickets, storing them in the database for retrieval and updates. Agents handle ticket resolution and status updates, with the application server managing status changes and communicating them back to users. Users can view ticket status updates and agent comments, and have the ability to close the ticket. The application server processes these closure and updating the ticket status accordingly in the database. This system ensures efficient communication and resolution of user-reported issues, with clear processes for ticket management and status updates throughout.
 
-    This Architecture provides a detailed view of the ticket lifecycle, from submission by the end user to processing by the agent, with all steps in between managed by the application server and database server.
+This Architecture provides a detailed view of the ticket lifecycle, from submission by the end user to processing by the agent, with all steps in between managed by the application server and database server.
 
 ## Screenshots
 Here are some snapshots showcasing the functionality of the system:
@@ -88,4 +87,4 @@ Here are some snapshots showcasing the functionality of the system:
 ![alt text](TktsAgent.png)
 
 ## Conclusion
-    This web-based ticket management system provides a robust solution for handling customer inquiries and support issues, improving the efficiency and effectiveness of customer service operations.
+This web-based ticket management system provides a robust solution for handling customer inquiries and support issues, improving the efficiency and effectiveness of customer service operations.
